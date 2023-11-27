@@ -1,4 +1,4 @@
-This is an extremely interesting text.
+This is an extremely interesting text. These are some new changes
 This is the sinergy of AStudent 
 and BStudent efforts.
 
